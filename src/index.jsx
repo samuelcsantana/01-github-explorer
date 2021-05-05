@@ -3,5 +3,5 @@ import { App } from "./app";
 
 
 
-render(<h1>Teste</h1>, document.getElementById('root'))
+render(<App />, document.getElementById('root'))
 
