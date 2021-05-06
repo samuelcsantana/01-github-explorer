@@ -1,3 +1,9 @@
+import './styles/global.scss'
+
 export function App() {
-  return <h1>Hello RactJS</h1>
+
+  //throw new Error('Eita Giovana, o forninho caiu!');
+
+  
+    return <h1>Hello RactJS</h1>
 }
